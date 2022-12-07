@@ -6,4 +6,4 @@
 - **게임명** : 날 수 있어, 병아리!
 - **게임 설명** : 날기 위해 떠난 엄마를 찾기 위해 전국을 날아다니는 병아리의 여행
 - **플레이 영상** : 
-[![날 수 있어, 병아리!](https://www.youtube.com/watch?v=1CRf11Q9t8w/0.jpg)](https://www.youtube.com/watch?v=1CRf11Q9t8w)
+[![날 수 있어, 병아리!](https://img.youtube.com/vi/1CRf11Q9t8w/0.jpg)](https://youtu.be/1CRf11Q9t8w)
